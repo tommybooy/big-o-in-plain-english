@@ -620,4 +620,5 @@ https://www.quora.com/How-would-you-explain-O-log-n-in-algorithms-to-1st-year-un
 http://www.daveperrett.com/articles/2010/12/07/comp-sci-101-big-o-notation/
 
 Pop Quiz:
-http://stackoverflow.com/questions/9223351/confused-on-big-o-notation?rq=1
+http://stackoverflow.com/questions/9223351/confused-on-big-o-notation?rq=1. GOGO,EP("LONGLIVEME:);
+
